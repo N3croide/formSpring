@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:#08090A;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div.div-from{
+    background-color: #f2f2f2;
+    color: black;
+    width: 50%;
+    height: 50%;
+    border-radius: 20px;
+    padding: 5%;
+}
+button#button-from{
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
